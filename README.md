@@ -35,10 +35,10 @@
 
 <div align="center">
   <!-- Statistiques GitHub de base -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EverosCall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f5ff&icon_color=ff0080&text_color=c0caf5" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EverosCall&theme=tokyonight" width="48%" alt="Profile Details" />
   
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverosCall&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f5ff&text_color=c0caf5" width="46%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EverosCall&theme=tokyonight" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
